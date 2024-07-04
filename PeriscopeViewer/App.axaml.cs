@@ -2,9 +2,9 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 
-using PeriscopeLens.Views;
+using PeriscopeViewer.Views;
 
-namespace PeriscopeLens;
+namespace PeriscopeViewer;
 
 public partial class App : Application
 {

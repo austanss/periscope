@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace PeriscopeLens;
+namespace PeriscopeViewer;
 
 class Program
 {

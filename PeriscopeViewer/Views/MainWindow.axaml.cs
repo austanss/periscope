@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace PeriscopeLens.Views;
+namespace PeriscopeViewer.Views;
 
 public partial class MainWindow : Window
 {
